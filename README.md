@@ -1,6 +1,6 @@
 # Hi there 👋
 
-+ ⭐️ I'm Kambri, an undergraduate CS student intrested in **HPC** and **AI Infra**.
++ ⭐️ I'm Kambri, an undergraduate CS student intrested in **AI Infra**.
   
 + 📮 Reach me by `kambrikg DOT gmail DOT com`
   
